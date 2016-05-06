@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Shape or Color</string>
+    <string name="action_settings">Settings</string>
+    <string name="desc">This could be an image description</string>
+
+    <color name="grey">#2C2B2E</color>
+    <color name="white">#FFFFFF</color>
+    <color name="darker_gray">#141415</color>
+    <color name="black">#000000</color>
+
+    <string name="title_activity_shapes">Shapes</string>
+    <string name="color">COLOR</string>
+    <string name="shape">SHAPE</string>
+    <string name="title_activity_final_results">FinalResults</string>
+    
+    <string name="game_over">Game is over!</string>
+    <string name="right_answers">Right Answers: </string>
+    <string name="wrong_answers">Wrong Answers: </string>
+    <string name="final_score">FInal Score: </string>
+    <string name="back_to_menu">BACK TO MENU</string>
+    
+    <string name="exit">EXIT</string>
+    <string name="replay_game">REPLAY GAME</string>
+
+</resources>
